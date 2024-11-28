@@ -2,7 +2,6 @@
 - 👀 I’m interested in Computer Games and programming
 - 📫 How to reach me:
 - Discord: Alex.exe#1498
-- Email:  gummihubi@gmail.com
 
 <!---
 SirAlexus1811/SirAlexus1811 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
